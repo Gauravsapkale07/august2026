@@ -5,7 +5,7 @@ class PrintNum{
 	public static void printNumbers(int n){
 	
 	for(int i = 1;i <= n;i++){
-	System.out.println(i);
+`		System.out.println(i);
 	
 	}
 }
